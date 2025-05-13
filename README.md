@@ -56,7 +56,7 @@ electronics-store/
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/electronics-store.git
+   git clone https://github.com/AyouubElb/electronics-store.git
    cd electronics-store
    \`\`\`
 
